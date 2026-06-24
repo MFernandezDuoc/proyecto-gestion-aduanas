@@ -27,3 +27,13 @@ El proyecto se divide en las siguientes fases metodológicas:
 
 ---
 
+## 3 Integrantes - Grupo 4 (Sección 005D)
+
+* **Darliette Loncopán** - *Jefe de Proyecto*
+* **Matias Yanac** - *Analista Principal*
+* **Aschton Medolphe** - *DBA (Administrador de Base de Datos)*
+* **Martin Fernandez** - *QA / Diseñador UI-UX*
+
+**Docente:** Mauricio Solar  
+**Institución:** Duoc UC
+
