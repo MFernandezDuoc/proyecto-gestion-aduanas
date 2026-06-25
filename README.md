@@ -1,4 +1,4 @@
-# 🇨🇱 Sistema de Gestión de Aduanas - Paso Fronterizo Los Libertadores
+#  Sistema de Gestión de Aduanas - Paso Fronterizo Los Libertadores
 
 Este repositorio contiene la estructura oficial de ingeniería de software y la documentación técnica para el **Proyecto de Gestión de Aduanas**, diseñado para centralizar, digitalizar y optimizar los flujos de control migratorio, aduanero y de sanidad en los pasos fronterizos de Chile.
 
